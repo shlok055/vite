@@ -1,4 +1,4 @@
-# gym-typescript
+# vite
 
 Build a Complete Typescript React Fitness Application for Beginners
 
